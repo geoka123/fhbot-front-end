@@ -17,7 +17,7 @@ const Chat = () => {
   // Handle send button click to submit the question
   const handleSend = async () => {
     if (!question.trim()) {
-      alert("Please type a question.");
+      alert("Please type something.");
       return;
     }
 
