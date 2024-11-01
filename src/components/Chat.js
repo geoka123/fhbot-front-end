@@ -28,7 +28,7 @@ const Chat = () => {
 
     try {
       const response = await axios.post(
-        'http://13.60.33.46:8000/api/answerontext/',
+        'http://16.170.233.115:8000/api/answerontext/',
         { input: question },
         {
           headers: {
