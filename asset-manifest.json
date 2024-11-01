@@ -1,15 +1,13 @@
 {
   "files": {
     "main.css": "/fhbot-front-end/static/css/main.d376d9aa.css",
-    "main.js": "/fhbot-front-end/static/js/main.71df77ed.js",
-    "static/js/453.ed3810f9.chunk.js": "/fhbot-front-end/static/js/453.ed3810f9.chunk.js",
+    "main.js": "/fhbot-front-end/static/js/main.83625f7f.js",
     "index.html": "/fhbot-front-end/index.html",
     "main.d376d9aa.css.map": "/fhbot-front-end/static/css/main.d376d9aa.css.map",
-    "main.71df77ed.js.map": "/fhbot-front-end/static/js/main.71df77ed.js.map",
-    "453.ed3810f9.chunk.js.map": "/fhbot-front-end/static/js/453.ed3810f9.chunk.js.map"
+    "main.83625f7f.js.map": "/fhbot-front-end/static/js/main.83625f7f.js.map"
   },
   "entrypoints": [
     "static/css/main.d376d9aa.css",
-    "static/js/main.71df77ed.js"
+    "static/js/main.83625f7f.js"
   ]
 }
